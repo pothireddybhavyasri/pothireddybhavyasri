@@ -152,7 +152,13 @@ Explore my repositories for more coding projects, experiments, and development w
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pothireddybhavyasri&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=EF93C4&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph"/>
+```html
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=pothireddybhavyasri&theme=react-dark"
+  alt="GitHub Contribution Activity Graph"
+/>
+```
 
 </div>
 
