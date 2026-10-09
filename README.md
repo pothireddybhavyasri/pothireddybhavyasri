@@ -1,34 +1,78 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**pothireddybhavyasri/pothireddybhavyasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pothireddybhavyasri/pothireddybhavyasri/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pothireddybhavyasri/pothireddybhavyasri/main/light.svg">
+  <img alt="Bhavya Sri — Animated Developer Profile" src="https://raw.githubusercontent.com/pothireddybhavyasri/pothireddybhavyasri/main/light.svg">
+</picture>
 
-Here are some ideas to get you started:
+# Pothireddy Bhavya Sri
+**Full-Stack Developer / Computer Science Student**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-Pothireddy Bhavya Sri<br><br>Hi! I’m Pothireddy Bhavya Sri — a passionate aspiring software developer from Hyderabad, India 🇮🇳.<br>I love building clean, logical, and purposeful software, and I learn best by building real projects and practicing daily.<br><br>👋 About Me<br><br>My journey in tech started with curiosity and small experiments that slowly turned into real, usable applications.<br>I enjoy writing simple, readable code and improving my problem-solving skills every day.<br><br>I strongly believe that:<br><br>small consistent efforts create strong developers. <br><br>💻 What I Do<br><br>I mainly build practical and beginner-friendly applications using:<br><br>☕ Java – especially GUI desktop applications<br><br>🐍 Python – simple utilities and automation scripts<br><br>🌐 JavaScript / TypeScript – basic web tools<br><br>I also solve algorithmic problems daily to strengthen my fundamentals.<br><br>🛠️ Key Projects<br><br>Here are a few projects from my GitHub:<br><br>✔ Restaurant Billing GUI – Java Swing desktop application<br><br>✔ Random Password Generator – secure password utility<br><br>✔ Digital Clock – real-time clock using Python<br><br>✔ Website Blocker – simple Python tool to block distracting sites<br><br>✔ Roll a Dice Simulation – fun random number simulator<br><br>These projects show my ability to:<br><br>build user interfaces<br><br>handle user events<br><br>use standard libraries effectively<br><br>create small but useful everyday tools<br><br>🚀 Skills & Tools<br><br>✔ Programming Languages: Java, Python, JavaScript<br><br>✔ Tech Areas: GUI applications, desktop utilities, basic web tools<br><br>✔ Problem Solving: Arrays, Strings, Recursion, Two Pointers<br><br>✔ Practice: Consistent daily coding and learning<br><br>🎯 What I’m Learning<br><br>Currently focusing on:<br><br>✨ Data Structures & Algorithms (LeetCode – daily practice)<br><br>✨ Object-Oriented Programming<br><br>✨ Clean code and best practices<br><br>✨ Future focus: Web development and AI integration<br><br>🧠 My Growth Philosophy<br><br>learn by doing<br><br>write simple and effective code<br><br>improve a little every single day<br><br>Every project and every problem I solve brings me one step closer to building meaningful software that helps people.<br><br>📫 Connect With Me<br><br>🔗 LinkedIn:<br>https://www.linkedin.com/in/pothireddy-bhavya-sri-031193328<br><br>📧 Email:<br>pothireddybhavyasri@gmail.com<br><br>💻 LeetCode:<br>https://leetcode.com/u/pothireddy_bhavyasri/<br><br>📍 Location: Hyderabad, India 🇮🇳
+<a href="https://bhavya-sri-portfolio-three.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pothireddy-bhavya-sri-031193328) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pothireddybhavyasri@gmail.com) 
+## 👋 Brief introduction
+Hi! I’m Pothireddy Bhavya Sri — a passionate aspiring software developer from Hyderabad, India 🇮🇳.  
+I love building clean, logical, and purposeful software, and I learn best by building real projects and practicing daily.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pothireddybhavyasri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pothireddybhavyasri&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pothireddybhavyasri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💫 About Me
+My journey in tech started with curiosity and small experiments that slowly turned into real, usable applications.  
+I enjoy writing simple, readable code and improving my problem-solving skills every day.
 
----
-[![](https://visitcount.itsvg.in/api?id=pothireddybhavyasri&icon=0&color=0)](https://visitcount.itsvg.in)
+I strongly believe that: **small consistent efforts create strong developers.**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Skills and technology stack
+**Programming Languages:** Java, Python, JavaScript, TypeScript, C++  
+**Frontend:** React, HTML5, CSS3, Tailwind  
+**Backend:** Node.js, Express  
+**Databases:** MongoDB, MySQL  
+**Tools & Infra:** Git, Docker, VS Code, Vercel
+
+## 🛠️ Verified featured projects
+Here are a few projects from my GitHub:
+
+✔ **Procurement Pilot / GeM bid compliance verification platform**  
+✔ **Resume ATS Scanner**  
+✔ **Restaurant Billing GUI** – Java Swing desktop application  
+✔ **Website Blocker** – simple Python tool to block distracting sites  
+✔ **Random Password Generator** – secure password utility
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pothireddybhavyasri&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&title_color=22D3EE" width="100%" alt="Contribution Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pothireddybhavyasri&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pothireddybhavyasri&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" width="49%" alt="Top Languages" />
+</div>
+
+## 🐍 Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pothireddybhavyasri/pothireddybhavyasri/output/dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pothireddybhavyasri/pothireddybhavyasri/output/dist/github-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/pothireddybhavyasri/pothireddybhavyasri/output/dist/github-snake.svg">
+  </picture>
+</div>
+
+## 🌐 LinkedIn and verified social badges
+
+<div align="center">
+  <a href="https://bhavya-sri-portfolio-three.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pothireddy-bhavya-sri-031193328/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+## 📫 Contact
+- **Email:** pothireddybhavyasri@gmail.com
+- **LeetCode:** [pothireddy_bhavyasri](https://leetcode.com/u/pothireddy_bhavyasri/)
+- **Location:** Hyderabad, India 🇮🇳
