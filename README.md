@@ -147,16 +147,11 @@ Explore my repositories for more coding projects, experiments, and development w
 
 <br/><br/>
 
-
-<br/><br/>
-
-```html
 <img
   width="100%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=pothireddybhavyasri&theme=react-dark"
   alt="GitHub Contribution Activity Graph"
 />
-```
 
 </div>
 
@@ -195,8 +190,6 @@ Explore my repositories for more coding projects, experiments, and development w
 
 <br/><br/>
 
-*Thanks for visiting my profile! Let's learn, build, and grow together.* 🌸
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=140&section=footer" width="100%" alt="Pink Glass footer"/>
+**Learning · Building · Growing**
 
 </div>
