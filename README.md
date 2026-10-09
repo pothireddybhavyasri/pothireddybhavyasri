@@ -147,8 +147,6 @@ Explore my repositories for more coding projects, experiments, and development w
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pothireddybhavyasri&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=C9D1D9&bg_color=0D1117" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pothireddybhavyasri&layout=compact&langs_count=8&hide_border=true&title_color=EF93C4&text_color=C9D1D9&bg_color=0D1117" alt="Top languages"/>
 
 <br/><br/>
 
