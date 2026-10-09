@@ -72,6 +72,36 @@ I enjoy building practical applications, solving programming problems, and conti
 
 </div>
 
+
+## 🏆 Featured Achievement
+
+<div align="center">
+
+### 🥇 AgentX Hackathon Winner
+
+**JAMES — Joint Autonomous Multimodal Execution System**
+
+<img src="https://img.shields.io/badge/ACHIEVEMENT-AgentX_Hackathon_Winner-EF93C4?style=for-the-badge&logo=github&logoColor=181717" alt="AgentX Hackathon winner"/>
+
+**Winner among 170 participating teams**
+
+</div>
+
+JAMES is a multimodal AI assistant designed to guide technicians through repair procedures by combining camera input, voice, local manuals, sensor logs, and repair history.
+
+- 🤖 Designed around a six-agent architecture
+- 🧠 Combines multiple information sources to support repair guidance
+- 🛡️ Integrates a rule-based safety engine
+- 🔒 Supports offline/local execution for privacy and reliability
+
+<div align="center">
+
+<a href="https://github.com/pothireddybhavyasri/james">
+  <img src="https://img.shields.io/badge/View_JAMES_Project-Explore_Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="View JAMES repository"/>
+</a>
+
+</div>
+
 ---
 
 ## 🚀 Featured Projects
@@ -175,6 +205,76 @@ Explore my repositories for more coding projects, experiments, and development w
 </div>
 
 ---
+
+## 🎓 Education
+
+**B.Tech — Computer Science and Engineering**
+
+ACE Engineering College, Hyderabad
+
+- Expected graduation: 2028
+- CGPA: 9.45
+
+## 📜 Certifications & Training
+
+- **Google Cloud Generative AI Virtual Internship** — SmartBridge & SmartInternz; completed, 45+ labs and 50+ hours
+- **Google AI Essentials** — Google/Coursera; completed in 2025
+- **Crash Course on Python** — Google/Coursera; completed in 2025
+- **Sigma** — Apna College; ongoing training in MERN stack, DSA, and Java
+- **Gradious Training Program** — selected participant for DSA
+
+## 🌟 Leadership & Activities
+
+### 📝 Topic Curator — Eloquence Club
+
+*Magazine & Blogging Wing · ACE Engineering College*
+
+Curating topics and contributing to editorial planning for college magazine and blogging initiatives.
+
+### 🎯 Event Coordinator — Solution Sprint 2025
+
+Supported assessments, coding rounds, and event operations for a technical event involving **450+ participants**.
+
+### 🎤 Event Management & Marketing — TEDx
+
+Contributed to event planning, marketing, and participant engagement.
+
+---
+
+## 🗺️ My Developer Roadmap
+
+<div align="center">
+
+| Focus area | Direction |
+|---|---|
+| 🧠 DSA | Improve algorithmic thinking and problem-solving |
+| ☕ Java | Strengthen OOP and core programming |
+| 🌐 Full-stack | Build and deploy MERN applications |
+| 🤖 AI applications | Explore useful AI-assisted workflows |
+| 🧪 Software engineering | Improve testing, debugging, and code quality |
+| 🌍 Collaboration | Contribute to projects and learn from developers |
+
+</div>
+
+## 🎯 Goals
+
+- [ ] Keep strengthening DSA and Java
+- [ ] Deploy polished full-stack projects
+- [ ] Improve testing and software architecture skills
+- [ ] Contribute to open-source projects
+- [ ] Continue participating in hackathons
+- [ ] Build useful applications with clear documentation
+
+## 💻 My Developer Workflow
+
+<div align="center">
+
+**IDEA** → **PLAN** → **BUILD** → **TEST** → **IMPROVE** → **SHIP**
+
+</div>
+
+I value readable code, continuous learning, collaborative development, and practical problem-solving.
+
 
 ## 🌐 Connect With Me
 
