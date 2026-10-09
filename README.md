@@ -1,5 +1,9 @@
  <div align="center">
 
+<picture>
+  <img alt="Bhavya Sri — Pink Glass Developer Profile" src="header-light.png" width="100%">
+</picture>
+
 <br/>
 
 <picture>
