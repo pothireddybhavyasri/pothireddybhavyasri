@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:181717,35:55304F,70:B65D91,100:EF93C4&text=BHAVYA%20SRI&fontSize=50&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20PROBLEM%20SOLVER&descSize=14&descAlignY=58&animation=fadeIn&section=header" width="100%" alt="Bhavya Sri's pink developer banner"/>
 
@@ -212,13 +212,6 @@ A database project for organizing flight reservation information.
 
 </div>
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pothireddybhavyasri&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub profile trophies"/>
-
-</div>
 
 ## 🐍 Contribution Snake
 
@@ -331,4 +324,3 @@ I value readable code, continuous learning, collaborative development, and pract
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:181717,35:55304F,70:B65D91,100:EF93C4&section=footer" width="100%" alt="Pink gradient footer"/>
 
 </div>
-
