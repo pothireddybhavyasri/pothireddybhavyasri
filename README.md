@@ -1,7 +1,25 @@
+```html
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:181717,35:55304F,70:B65D91,100:EF93C4&text=BHAVYA%20SRI&fontSize=50&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20PROBLEM%20SOLVER&descSize=14&descAlignY=58&animation=fadeIn&section=header" width="100%" alt="Bhavya Sri's pink developer banner"/>
+<br/>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/pothireddybhavyasri/pothireddybhavyasri/main/dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/pothireddybhavyasri/pothireddybhavyasri/main/light.svg">
+  <img
+    alt="Bhavya Sri — Animated Developer Profile"
+    src="https://raw.githubusercontent.com/pothireddybhavyasri/pothireddybhavyasri/main/light.svg"
+    width="100%">
+</picture>
+
+<br/>
+
+</div>
+```
 # Bhavya Sri Pothireddy
 
 ### Aspiring Software Engineer · MERN Stack · DSA in Java
