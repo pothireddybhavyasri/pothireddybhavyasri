@@ -54,9 +54,9 @@ Here are a few projects from my GitHub:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pothireddybhavyasri/pothireddybhavyasri/output/dist/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pothireddybhavyasri/pothireddybhavyasri/output/dist/github-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/pothireddybhavyasri/pothireddybhavyasri/output/dist/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pothireddybhavyasri/pothireddybhavyasri/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pothireddybhavyasri/pothireddybhavyasri/output/github-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/pothireddybhavyasri/pothireddybhavyasri/output/github-snake.svg">
   </picture>
 </div>
 
